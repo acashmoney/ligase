@@ -14,12 +14,12 @@ async function main() {
   // await hre.run('compile');
 
   // We get the contract to deploy
-  const ScienceNFT = await hre.ethers.getContractFactory("ScienceNFT");
-  const scienceNFT = await ScienceNFT.deploy();
+  const Ligase = await hre.ethers.getContractFactory("Ligase");
+  const ligase = await Ligase.deploy();
 
-  await scienceNFT.deployed();
+  await ligase.deployed();
 
-  console.log("Science NFT contract deployed to:", scienceNFT.address);
+  console.log("Ligase contract deployed to:", ligase.address);
 }
 
 // We recommend this pattern to be able to use async/await everywhere
@@ -27,4 +27,4 @@ async function main() {
 main().catch((error) => {
   console.error(error);
   process.exitCode = 1;
-});
+})
