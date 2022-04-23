@@ -1,0 +1,21 @@
+{
+    "object_id": "carnivorous magenta truffle",
+    "description": "Experiments with DALL·E mini",
+    "image": "https://gateway.pinata.cloud/ipfs/QmWr7iycX2v2M5i8aBv8pyBre4JSSpNJu4Apou2Zv2haY9",
+    "provenance_domain": {
+        "name": "DALL·E mini",
+        "published": "2021",
+        "contributors": "Dayma, Boris and Patil, Suraj and Cuenca, Pedro and Saifullah, Khalid and Abraham, Tanishq and Lê Khắc, Phúc and Melas, Luke and Ghosh, Ritobrata"
+    },
+    "execution_domain": {
+        "uri": "https://huggingface.co/spaces/dalle-mini/dalle-mini"
+    },
+    "io_domain": {
+        "inputs": {
+            "input_text": "carnivorous magenta truffle"
+        },
+        "outputs": {
+            "output_image": "https://gateway.pinata.cloud/ipfs/QmWr7iycX2v2M5i8aBv8pyBre4JSSpNJu4Apou2Zv2haY9"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "object_id": "contemporary silver artifact",
+    "description": "Experiments with DALL·E mini",
+    "image": "https://gateway.pinata.cloud/ipfs/QmcAU5rvvy231unmKQcrU7P1y1V982U6p7ZTvRpbXM1ZVw",
+    "provenance_domain": {
+        "name": "DALL·E mini",
+        "published": "2021",
+        "contributors": "Dayma, Boris and Patil, Suraj and Cuenca, Pedro and Saifullah, Khalid and Abraham, Tanishq and Lê Khắc, Phúc and Melas, Luke and Ghosh, Ritobrata"
+    },
+    "execution_domain": {
+        "uri": "https://huggingface.co/spaces/dalle-mini/dalle-mini"
+    },
+    "io_domain": {
+        "inputs": {
+            "input_text": "contemporary silver artifact"
+        },
+        "outputs": {
+            "output_image": "https://gateway.pinata.cloud/ipfs/QmcAU5rvvy231unmKQcrU7P1y1V982U6p7ZTvRpbXM1ZVw"
+        }
+    }
+}

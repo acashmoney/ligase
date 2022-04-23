@@ -1,0 +1,21 @@
+{
+    "object_id": "aqueous reptilian carbon",
+    "description": "Experiments with DALL·E mini",
+    "image": "https://gateway.pinata.cloud/ipfs/QmdJozGDGJ3cQJ6ssnFQ82piYzJZExzTE9ERfCkXRk9P5x",
+    "provenance_domain": {
+        "name": "DALL·E mini",
+        "published": "2021",
+        "contributors": "Dayma, Boris and Patil, Suraj and Cuenca, Pedro and Saifullah, Khalid and Abraham, Tanishq and Lê Khắc, Phúc and Melas, Luke and Ghosh, Ritobrata"
+    },
+    "execution_domain": {
+        "uri": "https://huggingface.co/spaces/dalle-mini/dalle-mini"
+    },
+    "io_domain": {
+        "inputs": {
+            "input_text": "aqueous reptilian carbon"
+        },
+        "outputs": {
+            "output_image": "https://gateway.pinata.cloud/ipfs/QmdJozGDGJ3cQJ6ssnFQ82piYzJZExzTE9ERfCkXRk9P5x"
+        }
+    }
+}
